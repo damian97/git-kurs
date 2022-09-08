@@ -6,5 +6,12 @@ public class Main {
 
         System.out.println(liczba + liczba2);
 
+        int iloczyn = 5;
+
+        int suma = liczba + liczba2;
+
+
+        System.out.println(suma * iloczyn);
+
     }
 }
